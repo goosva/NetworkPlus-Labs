@@ -9,9 +9,9 @@ This repository contains hands-on projects aligned with the CompTIA Network+ (N1
 - [x] Network Troubleshooting
 
 ## Lab List
-| Lab | Description |
-|-----|-------------|
-| [OSI Model Wireshark](./osi-model-wireshark) | Capturing and labeling traffic by OSI layer |
+| Domain | Lab | Description |
+|-----|-----|-------------|
+| 1 | [OSI Model Wireshark](./osi-model-wireshark) | Capturing and labeling traffic by OSI layer |
 
 
 
