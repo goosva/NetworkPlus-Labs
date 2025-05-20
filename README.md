@@ -12,6 +12,9 @@ This repository contains hands-on projects aligned with the CompTIA Network+ (N1
 | Domain | Lab | Description |
 |-----|-----|-------------|
 | 1 | [OSI Model Wireshark](./osi-model-wireshark) | Capturing and labeling traffic by OSI layer |
+| 1 | [IP Addressing and Subnetting](./osi-model-wireshark) | Assign static IPs and perform subnetting exercises |
+| 1 | [Ports and Protocols Analysis](./osi-model-wireshark) | Use nmap and Wireshark to explore TCP/UDP traffic |
+| 1 | [DNS, DHCP, and NAT Configuration](./osi-model-wireshark) | Configure services in pfSense and test them |
 
 
 
