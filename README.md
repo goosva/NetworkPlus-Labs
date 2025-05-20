@@ -27,18 +27,33 @@ This repository contains hands-on projects aligned with the CompTIA Network+ (N1
 | 5 | [Network Tools and Commands](./domain-5-network-troubleshooting/01-tools-and-commands) | Practice `ping`, `traceroute`, and other CLI tools |
 | 5 | [Simulate and Troubleshoot Failures](./domain-5-network-troubleshooting/02-simulated-failures) | Break and fix DHCP, DNS, or routes |
 
-
-
-
-| [pfSense VPN Setup](./pfSense-vpn-wireguard) | Remote access to lab over WireGuard |
-| [DNS, DHCP, NAT](./dns-dhcp-nat) | Simulate core LAN services with pfSense/Ubuntu |
-| [VLAN Routing + Firewalls](./vlan-routing-firewall) | Segmentation and ACLs via pfSense |
-| [Network Monitoring](./network-monitoring-ids) | IDS with Suricata and Security Onion |
-
 ## Tools Used
+
+**Core Infrastructure**
 - Proxmox VE
 - pfSense
 - Ubuntu Server/Desktop
-- Wireshark
-- WireGuard
 - Kali Linux
+
+**Traffic Analysis**
+- Wireshark
+- nmap
+
+**Remote Access & VPN**
+- WireGuard
+- (Optional) OpenVPN
+
+**Monitoring & Detection**
+- Suricata
+- Security Onion (Zeek, Kibana, Wazuh)
+- Netdata
+- SNMP Tools (`snmpwalk`, `snmpget`)
+
+**Utility & Documentation**
+- draw.io (network diagrams)
+- bash/Ansible (automation and backups)
+
+**Advanced (Optional)**
+- Splunk or ELK Stack
+- Bettercap or Ettercap
+
