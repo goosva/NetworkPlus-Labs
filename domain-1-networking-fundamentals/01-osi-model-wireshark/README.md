@@ -9,4 +9,9 @@ Step 2: Initialize wireshark and start capturing packets. I searched for Youtube
 This is a screenshot of the packets that were captured during that search:
 ![Uploading Screenshot 2025-05-27 201038.png…]()
 
+This is the screenshot highlighting Layer 1 (Physical) of the OSI model.
+![Screenshot 2025-05-27 201104](https://github.com/user-attachments/assets/85d6d161-ae2a-47fa-bf3c-6412c0530c9f)
+
+
+
 
